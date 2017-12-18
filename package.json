@@ -1,0 +1,12 @@
+{
+  "name": "challenge-sql-basic",
+  "version": "1.0.0",
+  "description": "Preset challenge with SQL",
+  "author": "Givery",
+  "main": "sql/showAll.sql",
+  "dependencies": {
+    "chai": "^3.3.0",
+    "knex": "^0.8.6",
+    "sqlite3": "^3.1.0"
+  }
+}

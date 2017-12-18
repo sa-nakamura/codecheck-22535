@@ -1,0 +1,3 @@
+-- table: users
+-- select non deleted users
+-- column "password" should not be contained

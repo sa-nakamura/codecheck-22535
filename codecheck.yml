@@ -1,0 +1,4 @@
+build:
+  - npm install
+  - node sql/initializeDB.js
+test: mocha
